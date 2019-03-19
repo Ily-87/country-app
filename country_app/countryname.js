@@ -36,7 +36,7 @@
 
 
 
-var = process.argv[0];
+var pro = process.argv[0];
 console.log(pro)
 
 
@@ -66,4 +66,4 @@ const result = countries.find(country.countryname === pro);
 console.log('Country:' + '<' 'result.name' + '>');
 });
 
-var pro =
+// var pro =
